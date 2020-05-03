@@ -1,8 +1,7 @@
-# trac2020_submission HINDI TASK B
-[TRAC 2020](https://sites.google.com/view/trac2/) Models code 
+# OffensEval2020_submission 
+[OffensEval 2020](https://sites.google.com/site/offensevalsharedtask/home) Models code 
 
-Currently only consists of code for the HINDI Task B run.
-Please find the code in the notebooks directory.
+Work In Progress
 
 Credits:
 
