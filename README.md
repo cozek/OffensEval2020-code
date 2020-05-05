@@ -17,5 +17,10 @@ TBD
 
 If you used the data please cite
 ```
-TBD
+@inproceedings{rosenthal2020,
+    title={{A Large-Scale Semi-Supervised Dataset for Offensive Language Identification}},
+    author={Rosenthal, Sara and Atanasova, Pepa and Karadzhov, Georgi and Zampieri, Marcos and Nakov, Preslav},
+    year={2020},
+    booktitle={arxiv}
+ }
 ```
