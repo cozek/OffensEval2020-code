@@ -10,7 +10,7 @@ Credits:
 - Transformers: https://github.com/huggingface/transformers
 
 
-If you our scripts please cite:
+If you use our scripts please cite:
 ```
 TBD
 ```
