@@ -1,6 +1,8 @@
 # OffensEval2020_submission 
 [OffensEval 2020](https://sites.google.com/site/offensevalsharedtask/home) Models code for Team KAFK
 
+Paper Link: https://www.aclweb.org/anthology/2020.semeval-1.267.pdf
+
 Please find the notebooks for the system code used for each task  in the `notebooks` directory.
 They should work out of the box in Google Colab. However, to fully replicate our work you will need the exact hyperparmeters
 from the original paper and the full dataset which might not be possible in Colab. 
@@ -15,9 +17,15 @@ Credits:
 - Transformers: https://github.com/huggingface/transformers
 
 
-If you use our scripts please cite:
+If you found our paper/scripts useful cite:
 ```
-TBD
+@inproceedings{das2020kafk,
+  title={KAFK at SemEval-2020 Task 12: Checkpoint Ensemble of Transformers for Hate Speech Classification},
+  author={Das, Kaushik Amar and Baruah, Arup and Barbhuiya, Ferdous Ahmed and Dey, Kuntal},
+  booktitle={Proceedings of the Fourteenth Workshop on Semantic Evaluation},
+  pages={2023--2029},
+  year={2020}
+}
 ```
 
 If you used the data please cite
